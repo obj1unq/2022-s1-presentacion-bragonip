@@ -6,6 +6,8 @@
 
 Tengo 32 años, hincha de River. Trabajo en Accenture en un sector de reporting de finanzas. Principalmente manejo bases de datos y automatizo procesos, y ahi descrubrí que me gusta la programación. Y a los 29 años me decidí a estudiar. No tengo mucho tiempo asi que voy avanznado muuy lentamente.
 
+
+
 Esta práctica está pensada para ir familiarizándose con la plataforma de GitHub, herramienta que vamos a estar usando para las entregas de TPs.
 
 Consiste en hacer 2 simples tareas:
